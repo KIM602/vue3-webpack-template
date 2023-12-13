@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webpack 기본 템플릿
 
 __webpack__: 모듈(패키지) 번들러의 핵심 패키지<br>
@@ -27,3 +28,6 @@ __autoprefixer__: 스타일에 자동으로 공급 업체 접두사(Vendor prefi
 - `package.json` 옵션으로 `browserslist` 추가!<br>
 - `.postcssrc.js` 생성(PostCSS 구성 옵션)!<br>
 - `.babelrc.js` 생성(Babel 구성 옵션)!<br>
+=======
+# vue3-webpack-template
+>>>>>>> 7369ac6c0098e36982105e80e8fe0bceff891230
